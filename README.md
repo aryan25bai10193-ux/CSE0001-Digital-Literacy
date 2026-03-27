@@ -4,6 +4,7 @@ Student Details -: Name: Aryan Rusia Registration Number: 25BAI10193 Course: CSE
 -Project Overview :- As a Student Digital Ambassador, this project focuses on helping students understand digital literacy, build a professional online presence, communicate effectively, and stay safe online. This repository contains all five tasks completed as part of the course along with the final project report.
 
 Repository Structure :-
+
 (1).task-1-presentation/ Digital Literacy Awareness Infographic (Canva design)
 
 (2).task-2-portfolio/ GitHub Profile Screenshot
@@ -42,4 +43,5 @@ Increased awareness of cybercrime and online safety.
 Developed structured content and presentation skills.
 
 -Contact :- Email: aryan.25bai10193@vitbhopal.ac.in
+
 -LinkedIn: https://www.linkedin.com/in/aryan-rusia-49190b3a2?utm_source=share_via&utm_content=profile&utm_medium=member_android
