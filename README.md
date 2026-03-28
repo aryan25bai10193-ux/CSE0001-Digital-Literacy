@@ -45,4 +45,5 @@ Increased awareness of cybercrime and online safety.
 Developed structured content and presentation skills.
 
 -Contact: Email: aryan.25bai10193@vitbhopal.ac.in
+
 -LinkedIn: https://www.linkedin.com/in/aryan-rusia-49190b3a2?utm_source=share_via&utm_content=profile&utm_medium=member_android
